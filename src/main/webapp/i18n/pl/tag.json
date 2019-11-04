@@ -1,0 +1,23 @@
+{
+  "galleryApp": {
+    "tag": {
+      "home": {
+        "title": "Tag",
+        "createLabel": "Dodaj Tag",
+        "createOrEditLabel": "Dodaj lub edytuj: Tag",
+        "notFound": "No Tags found"
+      },
+      "created": "Utworzono nowy obiekt typu Tag z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Tag z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Tag z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Tag {{ id }}?"
+      },
+      "detail": {
+        "title": "Tag"
+      },
+      "name": "Name",
+      "photo": "Photo"
+    }
+  }
+}

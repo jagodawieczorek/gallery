@@ -1,0 +1,30 @@
+{
+  "galleryApp": {
+    "photo": {
+      "home": {
+        "title": "Photo",
+        "createLabel": "Dodaj Photo",
+        "createOrEditLabel": "Dodaj lub edytuj: Photo",
+        "notFound": "No Photos found"
+      },
+      "created": "Utworzono nowy obiekt typu Photo z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Photo z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Photo z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Photo {{ id }}?"
+      },
+      "detail": {
+        "title": "Photo"
+      },
+      "title": "Title",
+      "description": "Description",
+      "image": "Image",
+      "height": "Height",
+      "width": "Width",
+      "taken": "Taken",
+      "uploaded": "Uploaded",
+      "album": "Album",
+      "tag": "Tag"
+    }
+  }
+}
